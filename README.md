@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Thusiya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Thusiya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Thusiya | facebook" width="22px" src="https://www.facebook.com/darshana.ravindu.90" />][facebook]
+[<img align="left" alt="Darshana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Darshana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Darshana | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 
@@ -35,7 +35,7 @@
 
 [instagram]: https://www.instagram.com/thusi_ya/
 [linkedin]: https://www.linkedin.com/in/darshana-bandara-5727a1195/
-[facebook]: https://www.facebook.com/thusitha.karunathilaka.50
+[facebook]: https://www.facebook.com/darshana.ravindu.90/
 [dev]: https://dev.to/thusiya05
 
 </br>
