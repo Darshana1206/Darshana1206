@@ -5,7 +5,7 @@
 
 - 🌱 Undergraduate at University of Colombo School of Computing
 
-<img src="https://media0.giphy.com/media/3oKGzgNfssFG1xlwC4/giphy.gif?cid=ecf05e47fjraisxazww6aj3gk54e1gnz5dn8srrbisciat81&rid=giphy.gif" width="400" height="230">
+<img src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif" width="400" height="230">
 
 
 ### Connect with me:
