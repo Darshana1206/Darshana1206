@@ -23,10 +23,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <a href="https://github.com/Thusiya05/github-readme-stats">
+  <a href="https://github.com/Darshana1206/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Darshana1206&show_icons=true&include_all_commits=true&theme=radical" alt="Darshana's github stats" />
 </a>
-<a href="https://github.com/Thusiya05/github-readme-stats">
+<a href="https://github.com/Darshana1206/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshana1206&layout=compact&theme=material-palenight" />
 </a>
