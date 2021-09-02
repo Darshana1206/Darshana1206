@@ -5,7 +5,7 @@
 
 - 🌱 Undergraduate at University of Colombo School of Computing
 
-<img src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif" width="400" height="230">
+<img align="center" src="https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif" width="400" height="230">
 
 
 ### Connect with me:
